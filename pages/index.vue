@@ -62,7 +62,7 @@
 
             <b-col class="profile__text">
               <p class="profile__name">
-                東広島子育て支援センター
+                東広島子育て支援センター 
               </p>
               <dl class="profile__item">
                 <dt class="profile__title">■住所</dt>
