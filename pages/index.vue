@@ -31,7 +31,7 @@
 
     <div style="margin-bottom:20px;">
     <b-card border-variant="success">
-        <div class="notice_title notice_center">お知らせ</div>
+        <div class="notice_title notice_center">お知らせS</div>
         <b-card-text>
           <li v-for="notice in notice.contents" :key="notice.id">
         {{ notice.Notice_body }}
