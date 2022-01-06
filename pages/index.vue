@@ -127,7 +127,7 @@
       <nuxt-link :to="`/${blog.id}`">
         {{ blog.title }}
       </nuxt-link>
-      <span class="date">
+      <span class="date ">
                   <time
                     :datetime="blog.ReleaseDate"
                     v-text="
